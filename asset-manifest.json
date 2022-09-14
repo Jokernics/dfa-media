@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dfa-media/static/css/main.9b298584.css",
+    "main.js": "/dfa-media/static/js/main.b8056877.js",
+    "static/media/blogers.svg": "/dfa-media/static/media/blogers.f202abf744db4b98083cf3ebeba5784b.svg",
+    "static/media/sctucture.svg": "/dfa-media/static/media/sctucture.47ad6a902d63c0bcf2faaa8e98dd4f25.svg",
+    "static/media/activities.svg": "/dfa-media/static/media/activities.e9322c4f7324060b60862051fef66f60.svg",
+    "static/media/like.svg": "/dfa-media/static/media/like.5be7ac9af9df58a49690972aa4e1b9a3.svg",
+    "static/media/shop.svg": "/dfa-media/static/media/shop.5acca95b8c4305798fbd6b6683610501.svg",
+    "static/media/marathon.svg": "/dfa-media/static/media/marathon.214eeaac78d79d56df85b5a660826ab0.svg",
+    "static/media/landings.svg": "/dfa-media/static/media/landings.b45ffd7f04619f1cae3ba6aa7e7d3742.svg",
+    "index.html": "/dfa-media/index.html",
+    "static/media/dashbord.svg": "/dfa-media/static/media/dashbord.17575c0a3e86a9458aeae8637763453d.svg",
+    "static/media/burger.svg": "/dfa-media/static/media/burger.ceaf38a1e4bd616342cc.svg",
+    "main.9b298584.css.map": "/dfa-media/static/css/main.9b298584.css.map",
+    "main.b8056877.js.map": "/dfa-media/static/js/main.b8056877.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b298584.css",
+    "static/js/main.b8056877.js"
+  ]
+}
