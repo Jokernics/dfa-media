@@ -1,0 +1,43 @@
+.header {
+  height: 122px;
+  padding-top: 18px;
+  padding-left: 100px;
+  position: relative;
+  color: white;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+}
+
+.header-container {
+  display: flex;
+  align-items: center;
+  gap: .5em
+}
+
+.header-btn {
+  cursor: pointer;
+  background: rgb(156, 107, 107);
+  border: none;
+  border-radius: 5px;
+  padding: 5px;
+  transition: all .25s;
+
+  &:hover{
+    background: rgb(167, 141, 141);;
+  }
+}
+
+.header-burger {
+  width: 20px;
+  height: 16px;
+  position: absolute;
+  top: 2em;
+  left: 2em;
+  background: url(../assets/images/burger.svg);
+  display: none;
+
+  @media screen and (max-width: 768.98px) {
+    display: block;
+  }
+}

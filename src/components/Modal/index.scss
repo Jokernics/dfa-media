@@ -1,0 +1,18 @@
+.modal-container {
+  height: 100vh;
+  width: 100vw;
+  position: fixed;
+  top: 0;
+  left: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.modal-wrp {
+  background: black;
+  padding: 5em;
+  display: flex;
+  flex-direction: column;
+  gap: 2em;
+}
